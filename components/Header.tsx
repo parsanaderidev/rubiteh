@@ -14,6 +14,7 @@ export default function Header() {
   const navLinks = [
     { title: "خانه", href: "/" },
     { title: "قصه ما", href: "/about" },
+    { title: "همراهان", href: "/partners" },
     { title: "ارتباط با ما", href: "/contact" },
   ];
 
